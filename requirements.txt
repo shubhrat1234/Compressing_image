@@ -1,0 +1,12 @@
+flask
+pillow
+psycopg2-binary
+numpy
+imagekitio
+requests
+opencv-python
+scikit-image
+pgmagick
+matplotlib
+mahotas
+memory_profiler
